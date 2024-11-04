@@ -127,7 +127,7 @@ nav > img {
   height: 220px;
   gap: 0;
   border-radius: 8px;
-  opacity: 1;
+  /* opacity: 1; */
 }
 
 .portfolio_article {
@@ -367,7 +367,7 @@ nav > img {
 
 footer {
   background: #6070ff;
-  background-image: url(images/footer\ shapes\ mobile.png);
+  background-image: url(images/footer_shapes_mobile.png);
   width: 375px;
   height: 673px;
   border-top-left-radius: 100px;
