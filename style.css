@@ -476,7 +476,7 @@ footer .action button:hover {
     flex-direction: column;
     justify-content: center;
     gap: 14px;
-    background: url(images/banner\ desktop\ img.png);
+    background-image: url(images/banner\ desktop\ img.png);
   }
 
   .intro {
