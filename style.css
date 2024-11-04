@@ -127,7 +127,6 @@ nav > img {
   height: 220px;
   gap: 0;
   border-radius: 8px;
-  /* opacity: 1; */
 }
 
 .portfolio_article {
@@ -245,7 +244,6 @@ nav > img {
 .about_myself {
   height: 1062px;
   width: 375px;
-  height: 1062px;
   margin-left: -23px;
   padding: 114px 0 114px 33px;
   background-color: #fcfdff;
@@ -282,12 +280,6 @@ nav > img {
   line-height: 24px;
   text-align: left;
   margin-top: 10px;
-}
-
-.social_icon {
-  width: 200px;
-  height: 80px;
-  gap: 16px;
 }
 
 .social_icon p {
@@ -473,9 +465,6 @@ footer .action button:hover {
     list-style-type: none;
     gap: 50px;
     color: #344563;
-  }
-
-  #header_ul {
     cursor: pointer;
   }
 
